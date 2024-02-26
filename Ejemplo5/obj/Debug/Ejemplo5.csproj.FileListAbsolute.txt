@@ -1,0 +1,10 @@
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\bin\Debug\Ejemplo5.exe.config
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\bin\Debug\Ejemplo5.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\bin\Debug\Ejemplo5.pdb
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\obj\Debug\Ejemplo5.csproj.AssemblyReference.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\obj\Debug\Ejemplo5.Form1.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\obj\Debug\Ejemplo5.Properties.Resources.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\obj\Debug\Ejemplo5.csproj.GenerateResource.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\obj\Debug\Ejemplo5.csproj.CoreCompileInputs.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\obj\Debug\Ejemplo5.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia1\Ejemplo5\obj\Debug\Ejemplo5.pdb
